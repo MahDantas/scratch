@@ -6,11 +6,12 @@ Marcela Dantas
 - estamos estudando programação,java Script
 
   
-### Voçe pode entrar e contato comigo para: 
+### Você pode entrar e contato comigo para: 
 - Dar banho em seus pets
 - Tirar foto de seus pets
 
 - Como entrar em contato : linsmarceladantas@gmail.com
 
-
+![](https://media1.tenor.com/m/5PuT-RRFAyQAAAAC/hi-bye.gif)
 https://tenor.com/pt-BR/view/hi-bye-hello-bichon-bichon-frise-gif-16499944357798150948
+
